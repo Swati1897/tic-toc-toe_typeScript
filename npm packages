@@ -1,0 +1,8 @@
+npm install -g @angular/cli
+ng new tic-toc-toe
+cd tic-tac-toe
+ng generate component game
+ng add @angular/material
+npm install --save bootstrap
+ng generate class gamelogic
+ ng generate class gameStatus or ng generate class gamestatus
